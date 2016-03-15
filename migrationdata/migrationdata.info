@@ -1,0 +1,9 @@
+name = "Migrate from Mongodb"
+description = "Module to migrate my mongodb data content to Drupal 7 instance"
+package = "Migration"
+core = 7.x
+
+dependencies[] = migrate
+
+;include the files that contain your Migrate classes
+files[] = cities.inc
