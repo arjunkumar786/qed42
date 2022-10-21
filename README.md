@@ -29,7 +29,7 @@ REQUIREMENTS
  - Database: MySQL 5.0.15/MariaDB 5.1.44
  - PHP: Ver 5.2.5 or higher
  - Server
-   - Apache: 1.3+
+ 	 - Apache: 1.3+
 	 - Nginx: 1.8+ or 1.9+
 
 This module requires no modules outside of Drupal core.
